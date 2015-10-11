@@ -1,0 +1,12 @@
+E:\SchoolBellSystem\SchoolBell\SchoolBell\bin\Debug\Schedule.accdb
+E:\SchoolBellSystem\SchoolBell\SchoolBell\bin\Debug\SchoolBell.exe.config
+E:\SchoolBellSystem\SchoolBell\SchoolBell\bin\Debug\SchoolBell.exe
+E:\SchoolBellSystem\SchoolBell\SchoolBell\bin\Debug\SchoolBell.pdb
+E:\SchoolBellSystem\SchoolBell\SchoolBell\bin\Debug\SchoolBell.xml
+E:\SchoolBellSystem\SchoolBell\SchoolBell\obj\Debug\ResolveAssemblyReference.cache
+E:\SchoolBellSystem\SchoolBell\SchoolBell\obj\Debug\SchoolBell.Form1.resources
+E:\SchoolBellSystem\SchoolBell\SchoolBell\obj\Debug\SchoolBell.Resources.resources
+E:\SchoolBellSystem\SchoolBell\SchoolBell\obj\Debug\SchoolBell.vbproj.GenerateResource.Cache
+E:\SchoolBellSystem\SchoolBell\SchoolBell\obj\Debug\SchoolBell.exe
+E:\SchoolBellSystem\SchoolBell\SchoolBell\obj\Debug\SchoolBell.xml
+E:\SchoolBellSystem\SchoolBell\SchoolBell\obj\Debug\SchoolBell.pdb
